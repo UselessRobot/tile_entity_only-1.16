@@ -1,2 +1,2 @@
 # tile_entity_only-1.16
- Adds a furnace-like tile entity
+ A mod for Minecraft that adds a furnace-like tile entity
